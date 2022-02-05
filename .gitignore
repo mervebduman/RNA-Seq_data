@@ -1,2 +1,6 @@
 .DS_Store
-*.fastq.gz
+*.gz
+.ipynb_checkpoints
+*.tar.*
+*.fastq
+*.tar
