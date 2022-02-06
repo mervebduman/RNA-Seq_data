@@ -6,3 +6,4 @@
 *.tar
 R1_seq.txt
 R2_seq.txt
+*.fa
